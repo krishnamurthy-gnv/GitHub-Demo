@@ -1,2 +1,2 @@
 # DEMO REPO
-Sample DEscription!
+Sample Description!
